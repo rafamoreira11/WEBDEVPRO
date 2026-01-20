@@ -1,86 +1,41 @@
-📚 Complete Web Development Course – Learning Journey
+# 📚 Complete Web Development Course – Learning Journey
 
-Este repositório documenta meu aprendizado ao longo do Complete Web Development Course, com foco no desenvolvimento web moderno, abrangendo tanto front-end quanto back-end, além de boas práticas, ferramentas e projetos práticos.
+Este repositório documenta meu aprendizado ao longo do **Complete Web Development Course**, ministrado pelo **Prof. Hitesh Choudhary**, com foco no desenvolvimento web moderno, abrangendo **front-end**, **back-end**, boas práticas e projetos práticos.
 
-🚀 Objetivo do Curso
+## 🚀 Objetivo do Curso
+Desenvolver uma base sólida em desenvolvimento web, capacitando-me a criar aplicações completas, responsivas, escaláveis e alinhadas às boas práticas do mercado.
 
-Desenvolver uma base sólida em desenvolvimento web, capacitando-me a criar aplicações completas, responsivas, escaláveis e seguindo boas práticas de mercado.
+## 🧠 O que estou aprendendo
 
-🧠 O que estou aprendendo
-🌐 Front-end
+### 🌐 Front-end
+- HTML5 (estrutura semântica)
+- CSS3 (Flexbox, Grid e responsividade)
+- JavaScript (ES6+)
+- Tailwind CSS
+- Elaboração de projetos
 
-HTML5 (estrutura semântica)
+### ⚙️ Back-end
+- Node.js, Express, Mongoose
+- Prisma, Drizzle, PostgreSQL, NeonDB
+- Criar meu próprio sistema de autenticação
+- Criar APIs e meu projeto open-source
 
-CSS3 (Flexbox, Grid, responsividade)
+### 🛠️ Ferramentas e Tecnologias
+- Git & GitHub
+- NPM
+- Ambiente de desenvolvimento
+- Debugging
+- Boas práticas de código
 
-JavaScript (ES6+)
+## 🧪 Projetos Desenvolvidos
+- Páginas web responsivas
+- Aplicações com JavaScript
+- APIs com Node.js e Express
+- Projetos full stack integrados
 
-Manipulação do DOM
+## 📈 Progresso
+Este repositório é atualizado continuamente conforme avanço no curso, servindo como um registro prático da minha evolução como desenvolvedor web.
 
-Design responsivo e acessibilidade
-
-Frameworks e bibliotecas (ex: Bootstrap)
-
-⚙️ Back-end
-
-Node.js
-
-Express.js
-
-Criação de APIs REST
-
-Autenticação e autorização
-
-Integração entre front-end e back-end
-
-🗄️ Banco de Dados
-
-SQL
-
-NoSQL (MongoDB)
-
-Modelagem de dados
-
-CRUD e relacionamentos
-
-🛠️ Ferramentas e Tecnologias
-
-Git & GitHub (controle de versão)
-
-NPM
-
-Ambiente de desenvolvimento
-
-Debugging e boas práticas de código
-
-🧪 Projetos Desenvolvidos
-
-Páginas web responsivas
-
-Aplicações com JavaScript puro
-
-APIs com Node e Express
-
-Projetos full stack integrados
-
-(Os projetos serão adicionados conforme o avanço no curso)
-
-📈 Progresso
-
-Este repositório é atualizado continuamente conforme avanço nas aulas e projetos, servindo como um registro prático do meu desenvolvimento como programador.
-
-🎯 Próximos Passos
-
-Aprimorar lógica de programação
-
-Criar projetos mais complexos
-
-Aplicar conceitos de engenharia de software
-
-Publicar aplicações
-
-👤 Autor
-
-Rafael Moreira
-Graduando em Engenharia da Computação - UFC Campus Sobral
-Interessado em desenvolvimento web e tecnologia
+## 👤 Autor
+**Rafael Moreira**  
+Graduando em Engenharia da Computação - UFC (Campus Sobral)
