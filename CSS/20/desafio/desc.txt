@@ -1,0 +1,6 @@
+<----> Página de inscrição <---->
+
+->Tons esverdeados;
+->Card para o form;
+->Inputs para : Email, senha, nome e sobrenome;
+->Botão para cadastro.
